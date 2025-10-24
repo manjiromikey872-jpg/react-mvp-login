@@ -11,7 +11,7 @@ const Index = () => {
       <div className="text-center space-y-8 relative z-10">
         <div className="space-y-4">
           <h1 className="text-6xl font-bold bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent animate-pulse">
-            MVP Auth
+            Login Auth
           </h1>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
             Authentication using Model-View-Presenter architecture
